@@ -1,0 +1,4 @@
+ravi
+kumar
+kannaujia
+$sort file.txt
